@@ -1,0 +1,7 @@
+# Node project setup
+* text=auto
+*.sh        text eol=lf
+*.md        text eol=lf
+*.conf      text eol=lf
+.gitignore  text eol=lf
+Dockerfile  text eol=lf
